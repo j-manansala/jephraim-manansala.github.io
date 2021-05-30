@@ -17,5 +17,7 @@ permalink: /about/
 <ul> BS Electrical Engineering, Mapua Institute of Technology, '13 </ul>
 
 
+<h2> Work Experience </h2>
+
 
 
