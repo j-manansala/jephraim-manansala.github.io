@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<img src="assets/jcm.jpeg">
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<h2> Personal Summary </h2>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<p> Detail-Oriented Data Scientist with six years of hands-on experience in developing and executing data-driven solutions for the energy and utility industry. Having experienced the industry from the inside, I have recognized the potential growth opportunities by utilizing the power of data. This led me to develop and sharpen my knowledge in machine learning, artificial intelligence, big data analytics, statistical modelling, data engineering, and cloud computing. With my skills, experience, and industry exposure, I aim to support organizations toward data-driven decision-making to pave the way for innovation and growth. </p>
+
+<h2> Educational Background </h2>
+
+<ul> MS Data Science, Asian Institute of Management '21 </ul>
+<ul> MS Electrical Engineering, Mapua Institute of Technology, '20 </ul>
+<ul> BS Electrical Engineering, Mapua Institute of Technology, '13 </ul>
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
