@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Detecting Medical Conditions on Chest Radiographs"
+categories: deep_learning classifier
 date:   2021-05-30 20:24:55 +0800
 ---
 by: Hwang, Manansala, Navarro, Panton

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Power Forward: Day-Ahead Electricity Demand Forecasting Using Gradient Boosting Regressors"
+categories: machine_learning classifier
 date:   2021-05-30 20:24:55 +0800
 ---
 by: Jephraim C. Manansala
