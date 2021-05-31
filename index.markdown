@@ -26,7 +26,6 @@ img:hover {
 <h3> Insight Pieces</h3>
 <p> Here are some of my thoughts and ideas about Data Science. </p>
 
-| [![ns](assets/ns.jpg)](https://jephraim-manansala.medium.com/complex-systems-as-viewed-by-an-electrical-engineer-bb0be4e25d4d "Complex Systems, as viewed by an Electrical Engineer") | [**Complex Systems, as viewed by an Electrical Engineer** <br/> *The whole is greater than the sum of its parts.*](https://jephraim-manansala.medium.com/complex-systems-as-viewed-by-an-electrical-engineer-bb0be4e25d4d "Complex Systems, as viewed by an Electrical Engineer") | 
 
 
 <h3> Introduction to Image Processing </h3>
