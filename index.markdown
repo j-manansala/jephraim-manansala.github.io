@@ -35,14 +35,15 @@ img:hover {
 
 [![blog5](assets/blog5.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-histogram-manipulation-on-digital-images-d4fb426d3513 "Image Processing with Python: Color Correction using Histogram Manipulation")
 
+| <!-- -->    | <!-- -->    |
+|-------------|-------------|
+| Foo         | Bar         |
 
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
 
 | Introduction to Computer Vision |  Digital Image and Quantization |  Image Enhancements using Fourier Transform |
 |----------|:-------------:|------:|
-|[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision") |  [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization") | [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform") |
+|[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision") Ever wondered how computers analyze and represent image data? |  [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization") How high-definition is high-definition? | [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform") How to remove unnecessary objects or artifacts in images? |
+
+| <!-- -->|  <!-- --> |  <!-- --> |
+|----------|:-------------:|------:|
+|[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision") Ever wondered how computers analyze and represent image data? |  [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization") How high-definition is high-definition? | [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform") How to remove unnecessary objects or artifacts in images? |
