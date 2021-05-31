@@ -24,12 +24,22 @@ img:hover {
 }
 </style>
 
+[![blog1](assets/blog1.png)](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+
+[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+
+[![blog1](assets/blog1.png){width=200px}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+
 
 | <!-- -->|  <!-- --> |  <!-- --> | <!-- --> |
-|----------|:-------------:|------:| ------:|
+|----------|----------|----------|----------|
 |[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")  |  [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")  | [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")  | [![blog4](assets/blog4.png){:.thumbnail.bordered}](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods") | 
 |*Introduction to Computer Vision* <br/> Ever wondered how computers analyze and represent image data? | *Digital Image Sampling and Quantization* <br/> How high-definition is high-definition?| *Image Enhancements using Fourier Transform* <br/> How to remove unnecessary objects or artifacts in images?| *Color Correction using White Balancing Methods* <br/> How can we correct colors in digital images? | 
 
+
+|----------|----------|----------|----------|
+|[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")  |  [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")  | [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")  | [![blog4](assets/blog4.png){:.thumbnail.bordered}](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods") | 
+|*Introduction to Computer Vision* <br/> Ever wondered how computers analyze and represent image data? | *Digital Image Sampling and Quantization* <br/> How high-definition is high-definition?| *Image Enhancements using Fourier Transform* <br/> How to remove unnecessary objects or artifacts in images?| *Color Correction using White Balancing Methods* <br/> How can we correct colors in digital images? | 
 
 
 |[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")  |  [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")  | [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")  | [![blog4](assets/blog4.png){:.thumbnail.bordered}](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods") | 
