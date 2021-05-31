@@ -40,7 +40,29 @@ permalink: /about/
 <ul> Developed an Asset Management Policy that optimizes Preventive Maintenance (PM) and Predictive Maintenance (PdM) for all electrical equipment to ensure the optimum performance throughout its life cycle </ul>
 <ul> Performed power system design, modelling, and analysis on critical power systems of the refinery and power plant to assess the associated risk and guide the plant operational planning and decision making </ul>
 
+<h2> Technology Competencies </h2>
+
+<h4> Python </h4>
+<ul> Numpy, Pandas, Matplotlib, Seaborn, Scipy, Scikit Learn, Tensorflow, Keras, Dask, Apache Spark, Selenium, NetworkX, NLTK, GenSim, Scikit Image, OpenCV, PostGIS, OSMNx </ul>
+<h4> Cloud Computing </h4>
+<ul> AWS </ul>
+<h4> Database </h4>
+<ul> SQL </ul>
+<h4> Web Development </h4>
+<ul> HTML, CSS, Jekyll </ul>
+<h4> Other Technologies </h4>
+<ul> Git, MATLAB, Tableau, ETAP, SAP ERP, MS Office </ul>
+
 <h2> Other Relevant Skills </h2>
+
+<h4> Electrical Engineering </h4>
+<ul> Power Systems Design, Modelling, and Analysis </ul>
+<ul> Economic Dispatch Optimization </ul>
+
+<h4> Project Management</h4>
+<ul> Engineering, Procurement, Construction (EPC) </ul>
+<ul> Contracts Management </ul>
+<ul> Change Management </ul>
 
 <h4> Business Management</h4>
 <ul> Business Model Development </ul>
@@ -48,14 +70,3 @@ permalink: /about/
 <ul> Operations Management </ul>
 <ul> Digital Marketing </ul>
 <ul> Design Thinking </ul>
-
-<h4> Project Management</h4>
-<ul> Engineering, Procurement, Construction (EPC) </ul>
-<ul> Contracts Management </ul>
-<ul> Change Management </ul>
-
-<h4> Electrical Engineering </h4>
-<ul> Power Systems Design, Modelling, and Analysis </ul>
-<ul> Economic Dispatch Optimization </ul>
-
-
