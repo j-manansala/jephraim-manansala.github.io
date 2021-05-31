@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "No Miss Solutions: A case study from Columbia Business School"
+date:   2021-05-30 20:24:55 +0800
+---
+by: Manansala, Dorosan, Edeza, Gonzales, Licong, Marquez 
+Asian Institute of Management
+
+The success of e-Car's business rests on providing rates that meet customer demand and generate profit for them. With this objective, e-Car's data set was analyzed to identify possible areas of improvement. The New Financing segment surfaced as a promising target for pricing optimization due to: (i) lower percentage of acceptance, (ii) relatively higher population size, and (iii) significant potential for higher profit due to higher principal amounts from higher-value vehicles. Additionally, a two-sample t-test showed that e-Car is pricing significantly higher than its competitors on the higher risk tiers (2, 3, 4). To optimize pricing, Gradient Boosting Classifiers were built to predict if a customer will accept or reject a loan offer from e-Car. The predictive model was then used to optimize pricing by iterating through a range of profitable rates. Thresholds for customer decision were set at values of rate, which would flip outcomes from a No to a Yes. Predictive models shown to be much more profitable by allowing profits in the New Financing segment to reach ~9.5M USD by setting optimal rate offers, better than the expected zero gain using e-Car's current pricing system. Implementing segment-specific models (e.g., according to Tier) showed to be more profitable.
+
+Keywords: Power System Stability, Classification 
+
+<i>Full text article and source codes can be provided upon request. </i>

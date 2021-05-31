@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Power Forward: Day-Ahead Electricity Demand Forecasting Using Gradient Boosting Regressors"
+author: Dorosan Edeza Gonzales Licong Manansala Marquez
 categories: machine_learning regressor
-date:   2021-05-30 20:24:55 +0800
+list_title: "Machine Learning"
+date:   2021-05-30 
 ---
 by: Dorosan, Edeza, Gonzales, Licong, Manansala, Marquez
 Asian Institute of Management

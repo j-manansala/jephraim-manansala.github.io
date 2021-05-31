@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Determining Top Geospatial Features for Electricity Demand Prediction"
+date:   2021-05-30 20:24:55 +0800
+---
+by: Manansala, Caubalejo
+Asian Institute of Management
+
+It is a fact that as economies grow and as technology advances, electricity consumption is expected to increase. This trend has been going on year after year as our society advances into the future. However, some places advance further than others – which entails that the electricity consumption in some areas is much more concentrated than others. This poses as a problem in electricity demand forecasting since the data that we input to the electricity demand forecasting algorithm we use today utilize electricity demand data which are already aggregated in nature. With the different variability of the demand of these aggregated cities, the forecasted demand may yield subpar results. Thus, this technical paper explores the possibility of using geospatial features to add context in the electricity demand forecasting problem and to find the top contributors of electricity demand in a seasonal basis. 
+
+Keywords: Power System Stability, Classification 
+
+<i>Full text article and source codes can be provided upon request. </i>

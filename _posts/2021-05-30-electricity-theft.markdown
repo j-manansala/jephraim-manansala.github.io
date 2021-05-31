@@ -1,8 +1,10 @@
 ---
 layout: post
 title:  "Detecting Electricity Theft using Neural Networks"
+author: Hwang Manansala Navarro Panton
 categories: deep_learning classifier
-date:   2021-05-30 20:24:55 +0800
+list_title: "Deep Learning"
+date:   2021-05-30 
 ---
 by: Hwang, Manansala, Navarro, Panton
 Asian Institute of Management
