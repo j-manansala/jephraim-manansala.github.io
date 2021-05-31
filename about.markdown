@@ -7,8 +7,6 @@ permalink: /about/
 [![jephraim_manansala](assets/jcm.jpeg){: width=175 style="float:right; padding:16px"}](https://www.linkedin.com/in/jephraim-manansala/ "LinkedIn Profile")
 
 
-<h2> Personal Summary </h2>
-
 <p style="text-align:justify"> <b>Detail-Oriented Data Scientist</b> with six years of hands-on experience in developing and executing data-driven solutions for the energy and utility industry. Having experienced the industry from the inside, I have recognized the potential growth opportunities by utilizing the power of data. This led me to develop and sharpen my knowledge in machine learning, artificial intelligence, big data analytics, statistical modelling, data engineering, and cloud computing. With my skills, experience, and industry exposure, I aim to support organizations toward data-driven decision-making to pave the way for innovation and growth. </p>
 
 <h2> Area of Interest</h2>
@@ -22,6 +20,9 @@ permalink: /about/
 
 
 <h2> Work Experience </h2>
+
+| ![jephraim_manansala](assets/work1.jpg) | ![jephraim_manansala](assets/work2.jpg) |
+
 
 <h4> Project Engineer, Petron Corporation </h4>
 
