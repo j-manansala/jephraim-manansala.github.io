@@ -10,11 +10,6 @@ layout: home
 
 Check out my blog posts at Medium! 
 
-[post1](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
-[post2](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")
-[post3](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")
-
-
 <style>
 img {
   border: 1px solid #ddd; /* Gray border */
@@ -28,13 +23,17 @@ img:hover {
   box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 </style>
-<body>
-
-<a target="_blank" href="https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3">
-  <img src="blog1.png" alt="Forest">
-</a>
-
-</body>
 
 
 [![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+
+[![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")
+
+[![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")
+
+[![blog4](assets/blog4.png){:.thumbnail.bordered}](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods")
+
+[![blog5](assets/blog5.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-histogram-manipulation-on-digital-images-d4fb426d3513 "Image Processing with Python: Color Correction using Histogram Manipulation")
+
+
+
