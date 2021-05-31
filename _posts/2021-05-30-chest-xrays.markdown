@@ -4,9 +4,9 @@ title:  "Detecting Medical Conditions on Chest Radiographs"
 categories: deep_learning classifier
 list_title: Highlighted
 date:   2021-05-30 
-authors: [Jephraim Manansala](https://www.linkedin.com/in/jephraim-manansala/), [Misha Hwang](https://www.linkedin.com/in/mishaysabelhwang/),  [Karl Navarro](https://www.linkedin.com/in/karl-ludwig-navarro/), [Lennart Panton](https://www.linkedin.com/in/lennartpanton/)
----
 
+---
+by: [Jephraim Manansala](https://www.linkedin.com/in/jephraim-manansala/), [Misha Hwang](https://www.linkedin.com/in/mishaysabelhwang/),  [Karl Navarro](https://www.linkedin.com/in/karl-ludwig-navarro/), [Lennart Panton](https://www.linkedin.com/in/lennartpanton/)
 Asian Institute of Management
 <!--more-->
 With the pandemic happening, public health-care workers in specialized fields have to perform their usual medical tasks continuously while performing COVID-19 tasks. Hospitals are also facing a shortage of health-care workers. Thus, the workload and shortage are cuasing extreme stress and burnout for these public health-care workers. While being in the frontlines, radiologists still face the tedious process of diagnosing chest-xray, potential diagnosis conflicts with other radiologists, and too many human errors involved. Thus, our team proposes to use big data and artificial neural networks to detect medical conditions in chest radiographs.
