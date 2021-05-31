@@ -9,10 +9,10 @@ permalink: /about/
 
 <h2> Personal Summary </h2>
 
-<p> Detail-Oriented Data Scientist with six years of hands-on experience in developing and executing data-driven solutions for the energy and utility industry. Having experienced the industry from the inside, I have recognized the potential growth opportunities by utilizing the power of data. This led me to develop and sharpen my knowledge in machine learning, artificial intelligence, big data analytics, statistical modelling, data engineering, and cloud computing. With my skills, experience, and industry exposure, I aim to support organizations toward data-driven decision-making to pave the way for innovation and growth. </p>
+<p> <b>Detail-Oriented Data Scientist</b> with six years of hands-on experience in developing and executing data-driven solutions for the energy and utility industry. Having experienced the industry from the inside, I have recognized the potential growth opportunities by utilizing the power of data. This led me to develop and sharpen my knowledge in machine learning, artificial intelligence, big data analytics, statistical modelling, data engineering, and cloud computing. With my skills, experience, and industry exposure, I aim to support organizations toward data-driven decision-making to pave the way for innovation and growth. </p>
 
-<h2> Area of Interest and Expertise </h2>
-<p> Work Automation, Process Automation, Energy and Utilities </p>
+<h2> Area of Interest</h2>
+<p> Work Automation, Process Optimization, and other Data Science Applications on the Energy and Utilities </p>
 
 <h2> Educational Background </h2>
 
@@ -23,13 +23,13 @@ permalink: /about/
 
 <h2> Work Experience </h2>
 
-<h3> Project Engineer, Petron Corporation </h3>
+<h4> Project Engineer, Petron Corporation </h4>
 
 <ul> Formulated budgetary and detailed project cost estimates amounting to 1.5 Billion Pesos which guided the management in budget-related decision making and planning considerations </ul>
 <ul> Supervised a team of 30 Electrical and Instrumentation personnel and synergized with multi-disciplinary teams to successfully construct and commission the 650 Million Peso oil distillation unit revamp  </ul>
 <ul> Designed more than 200 blueprint sheets of international standards-compliant construction drawings which streamlined the implementation and execution of refinery and power plant construction projects </ul>
 
-<h3> Reliability Engineer, Petron Corporation </h3>
+<h4> Reliability Engineer, Petron Corporation </h4>
 
 <ul> Provided data-driven solutions and recommendations that contributed to energy savings amounting to millions of pesos and maintained zero percent downtime in the refinery and  </ul>
 <ul> Managed the installation, operation, and maintenance of the Intelligent Electronic Devices (IEDs) on power substations to ensure its reliability and full integration with SCADA standard automation protocols </ul>

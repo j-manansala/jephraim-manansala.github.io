@@ -5,6 +5,9 @@
 layout: home
 ---
 
+<h1> Data Science Portfolio</h1>
+<p> Here are some of the projects I have created as I am studying Data Science at the Asian Institute of Management. </p>
+
 Check out my blog posts at Medium! 
 
 [post1](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
