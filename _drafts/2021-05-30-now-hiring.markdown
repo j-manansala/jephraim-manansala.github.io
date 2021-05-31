@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Now Hiring: Determining the Best Candidates for a Job Posting by Matching CVs to the Job Post Descriptiom"
+title:  "Now Hiring: Determining the Best Candidates for a Job Posting by Matching CVs to the Job Post Description"
 date:   2021-05-30 20:24:55 +0800
 ---
 by: Jephraim Manansala, Perry Ervine Ang, Ronaldo Dela Cruz
