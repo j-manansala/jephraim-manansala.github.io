@@ -50,4 +50,5 @@ img:hover {
 |[![blog17](assets/blog17.jpg)](https://medium.com/analytics-vidhya/image-processing-with-python-applications-in-machine-learning-part-2-c13ac25f7f6f "Applications in Machine Learning Part 2") | [**Applications in Machine Learning Part 2** <br/> *How can image processing techniques be used to prepare data for a machine learning algorithm?*](https://medium.com/analytics-vidhya/image-processing-with-python-applications-in-machine-learning-part-2-c13ac25f7f6f "Applications in Machine Learning Part 2") | 
 
 
-<h1> Here are some of the projects that I have completed </h1>
+<h1> Data Science Projects </h1>
+<p> Here are some of the projects that I have completed - either as an individual, pair, or a team. </p>
