@@ -4,6 +4,7 @@ title:  "Network Analysis of Philippine Supreme Court Decisions and Rulings"
 categories: network_science
 list_title: Highlighted
 date:   2021-05-30 
+excerpt: "In the practice of law, legal research is one of the most painstakingly long processes that takes most of the time of the law practitioners."
 ---
 by: [Jephraim C. Manansala](https://www.linkedin.com/in/jephraim-manansala/) and [Daryll F. Tumambing](https://www.linkedin.com/in/daryll-tumambing/)
 

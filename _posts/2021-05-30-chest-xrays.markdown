@@ -4,6 +4,7 @@ title:  "Detecting Medical Conditions on Chest Radiographs"
 categories: deep_learning classifier
 list_title: Highlighted
 date:   2021-05-30 
+excerpt: "With the pandemic happening, public health-care workers in specialized fields have to perform their usual medical tasks continuously while performing COVID-19 tasks. "
 ---
 by: [Jephraim Manansala](https://www.linkedin.com/in/jephraim-manansala/), [Misha Hwang](https://www.linkedin.com/in/mishaysabelhwang/),  [Karl Navarro](https://www.linkedin.com/in/karl-ludwig-navarro/), [Lennart Panton](https://www.linkedin.com/in/lennartpanton/)
 

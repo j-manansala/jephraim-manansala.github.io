@@ -4,6 +4,7 @@ title:  "Power Forward: Day-Ahead Electricity Demand Forecasting Using Gradient 
 categories: machine_learning regressor
 list_title: Highlighted
 date:   2021-05-30 
+excerpt: "Reliable forecasting of electricity demand is key to ensuring sustainable supply-demand systems in the energy sector."
 ---
 by: [Jephraim Manansala](https://www.linkedin.com/in/jephraim-manansala/), [Michael Dorosan](https://www.linkedin.com/in/michaeldorosan/), [Tonichi Edeza](https://www.linkedin.com/in/joseantonioedeza/), [James Gonzales](https://www.linkedin.com/in/jamescgonzales/), [Claudine Licong](https://www.linkedin.com/in/claudinelicong/), [Rommel Marquez](https://www.linkedin.com/in/rommelrmarquez/)
 

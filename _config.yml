@@ -21,12 +21,12 @@
 title: Jephraim Manansala, MSc
 email: jephraim.manansala@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is the Personal Website of Jephraim C. Manansala, Data Scientist and Electrical Engineer.
-baseurl: "" # the subpath of your site, e.g. /blog
+  This is the Personal Website of Jephraim C. Manansala. A Data Scientist and Electrical Engineer.
+baseurl: "" # the subpath of your site, e.g. /blogs
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: jephraim-manansala
 github_username: jephraim-manansala
-
+show_excerpts: true
 
 # Build settings
 theme: minima
