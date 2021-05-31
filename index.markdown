@@ -35,36 +35,10 @@ img:hover {
 
 [![blog5](assets/blog5.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-histogram-manipulation-on-digital-images-d4fb426d3513 "Image Processing with Python: Color Correction using Histogram Manipulation")
 
-<div class="main">
-<div class="row">
-  <div class="column">
-    <div class="content">
-      <img src="assets/blog1.png" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-      <img src="assets/blog2.png" alt="Lights" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-      <img src="assets/blog3.png" alt="Nature" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-  <div class="column">
-    <div class="content">
-      <img src="assets/blog4.png" alt="Mountains" style="width:100%">
-      <h3>My Work</h3>
-      <p>Lorem ipsum..</p>
-    </div>
-  </div>
-</div>
-</div>
+
+| Introduction to Computer Vision |  Digital Image and Quantization |
+:-------------------------:|:-------------------------:
+[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision") |
+[![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")
+
 
