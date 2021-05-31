@@ -2,7 +2,7 @@
 layout: post
 title:  "Detecting Medical Conditions on Chest Radiographs"
 categories: deep_learning classifier
-list_title: "Deep Learning"
+list_title: Highlighted
 ---
 by: [Jephraim Manansala](https://www.linkedin.com/in/jephraim-manansala/), [Misha Hwang](https://www.linkedin.com/in/mishaysabelhwang/),  [Karl Navarro](https://www.linkedin.com/in/karl-ludwig-navarro/), [Lennart Panton](https://www.linkedin.com/in/lennartpanton/)
 
