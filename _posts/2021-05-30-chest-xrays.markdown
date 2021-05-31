@@ -3,6 +3,7 @@ layout: post
 title:  "Detecting Medical Conditions on Chest Radiographs"
 categories: deep_learning classifier
 date:   2021-05-30 20:24:55 +0800
+list_title: Deep_Learning
 ---
 by: Hwang, Manansala, Navarro, Panton
 Asian Institute of Management

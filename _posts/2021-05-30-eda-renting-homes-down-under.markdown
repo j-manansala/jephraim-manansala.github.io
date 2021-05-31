@@ -2,6 +2,7 @@
 layout: post
 title:  "In The Zone: The Effect of Special Economic Zones on the Philippine Labor Market"
 date:   2021-05-30 20:24:55 +0800
+list_title: EDA
 ---
 by: Gonzales, Manansala
 Asian Institute of Management
