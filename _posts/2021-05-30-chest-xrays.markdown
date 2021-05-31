@@ -2,10 +2,10 @@
 layout: post
 title:  "Detecting Medical Conditions on Chest Radiographs"
 categories: deep_learning classifier
-date:   2021-05-30 20:24:55 +0800
-list_title: Deep_Learning
+list_title: "Deep Learning"
 ---
-by: Hwang, Manansala, Navarro, Panton
+by: [Jephraim Manansala](https://www.linkedin.com/in/jephraim-manansala/), [Misha Hwang](https://www.linkedin.com/in/mishaysabelhwang/),  [Karl Navarro](https://www.linkedin.com/in/karl-ludwig-navarro/), [Lennart Panton](https://www.linkedin.com/in/lennartpanton/)
+
 Asian Institute of Management
 
 With the pandemic happening, public health-care workers in specialized fields have to perform their usual medical tasks continuously while performing COVID-19 tasks. Hospitals are also facing a shortage of health-care workers. Thus, the workload and shortage are cuasing extreme stress and burnout for these public health-care workers. While being in the frontlines, radiologists still face the tedious process of diagnosing chest-xray, potential diagnosis conflicts with other radiologists, and too many human errors involved. Thus, our team proposes to use big data and artificial neural networks to detect medical conditions in chest radiographs.
@@ -14,6 +14,6 @@ We used 42GB of NIH Chest X-ray Dataset that contains 112,120 chest radiograph i
 
 With a 79% accuracy in detecting medical conditions, radiologists can diagnose chest x-rays faster with the model. Note, the model is not intended to replace Radiologists. Based on the results of the model, we recommend to augment of the chest radiographs image dataset further, to consider other pre-trained models for improvement of the 79% accuracy and detection medical condition severity, and to explore multi-labeled outputs for multiple condition detection.
 
-Keywords: Deep Learning
+Keywords: Deep Learning, Chest Radiographs, Big Data
 
 <i>Full text article and source codes can be provided upon request. </i>
