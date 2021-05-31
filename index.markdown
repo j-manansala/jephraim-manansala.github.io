@@ -15,13 +15,26 @@ Check out my blog posts at Medium!
 [post3](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")
 
 
-![blog1](assets/blog1.png#thumbnail){:.thumbnail.bordered}
-
-![blog1](assets/blog1.png#thumbnail){
-   width:50px;
-   height:50px;
+<style>
+img {
+  border: 1px solid #ddd; /* Gray border */
+  border-radius: 4px;  /* Rounded border */
+  padding: 5px; /* Some padding */
+  width: 150px; /* Set a small width */
 }
 
-[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+/* Add a hover effect (blue shadow) */
+img:hover {
+  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+</style>
+<body>
 
-[![blog1](assets/blog1.png){: width=150 height=100 style="float:right; padding:16px"}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+<a target="_blank" href="https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3">
+  <img src="blog1.png" alt="Forest">
+</a>
+
+</body>
+
+
+[![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
