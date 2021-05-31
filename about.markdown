@@ -4,7 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
-![jephraim_manansala](assets/jcm.jpeg)
+![jephraim_manansala](assets/jcm.jpeg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+
+<img src="assets/jcm.jpeg" width="200" align="right">
 
 <h2> Personal Summary </h2>
 
