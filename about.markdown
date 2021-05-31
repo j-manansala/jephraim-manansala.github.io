@@ -13,7 +13,7 @@ permalink: /about/
 <hr>
 <br>
 <h2> Area of Interest</h2>
-<p> Work Automation, Process Optimization, Demand Forecasting, and other Data Science Applications in Energy and Utilities </p>
+<p> Work Automation, Process Optimization, Demand Forecasting, Defect Detection, and other Data Science Applications in Energy and Utilities </p>
 
 <h2> Educational Background </h2>
 
@@ -27,13 +27,13 @@ permalink: /about/
 | ![jephraim_manansala](assets/work1.jpg) | ![jephraim_manansala](assets/work2.jpg) |
 
 
-<h4> **Project Engineer**, Petron Corporation *(2 years)* </h4>
+<h4> <b>Project Engineer</b>, Petron Corporation <i>(2 years)</i> </h4>
 
 <ul> Formulated budgetary and detailed project cost estimates amounting to 1.5 Billion Pesos which guided the management in budget-related decision making and planning considerations </ul>
 <ul> Supervised a team of 30 Electrical and Instrumentation personnel and synergized with multi-disciplinary teams to successfully construct and commission the 650 Million Peso oil distillation unit revamp  </ul>
 <ul> Designed more than 200 blueprint sheets of international standards-compliant construction drawings which streamlined the implementation and execution of refinery and power plant construction projects </ul>
 
-<h4> **Reliability Engineer**, Petron Corporation *(4 years)* </h4>
+<h4> <b>Reliability Engineer</b>, Petron Corporation <i>(4 years)</i> </h4>
 
 <ul> Provided data-driven solutions and recommendations that contributed to energy savings amounting to millions of pesos and maintained zero percent downtime in the refinery and  </ul>
 <ul> Managed the installation, operation, and maintenance of the Intelligent Electronic Devices (IEDs) on power substations to ensure its reliability and full integration with SCADA standard automation protocols </ul>
