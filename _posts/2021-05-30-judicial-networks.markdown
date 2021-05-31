@@ -3,6 +3,7 @@ layout: post
 title:  "Network Analysis of Philippine Supreme Court Decisions and Rulings"
 categories: network_science
 list_title: Highlighted
+tag: Highlighted
 date:   2021-05-30 
 ---
 by: [Jephraim C. Manansala](https://www.linkedin.com/in/jephraim-manansala/) and [Daryll F. Tumambing](https://www.linkedin.com/in/daryll-tumambing/)
