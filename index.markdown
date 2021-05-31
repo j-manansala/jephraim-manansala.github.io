@@ -13,3 +13,12 @@ Check out my blog posts at Medium!
 [post1](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
 [post2](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")
 [post3](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")
+
+
+![blog1](assets/blog1.png){:.thumbnail.bordered}
+
+![blog1](assets/blog1.png){: width=150 height=100 style="float:right; padding:16px"}
+
+[![blog1](assets/blog1.png){:.thumbnail.bordered}]https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+
+[![blog1](assets/blog1.png){: width=150 height=100 style="float:right; padding:16px"}]https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
