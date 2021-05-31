@@ -5,10 +5,9 @@
 layout: home
 ---
 
-<h1> Data Science Portfolio</h1>
-<p> Here are some of the projects I have created as I am studying Data Science at the Asian Institute of Management. </p>
+<h1><b> Data Science Portfolio</b></h1>
+<p> Here are some of the blogs, ideas, and projects I have created while training as a Data Science Leader at the Asian Institute of Management. </p>
 
-Check out my blog posts at Medium! 
 
 <style>
 img {
@@ -24,8 +23,14 @@ img:hover {
 }
 </style>
 
+<h3> Insight Pieces</h3>
+<p> Here are some of my thoughts and ideas about Data Science. </p>
+
+| [![ns](assets/ns.jpg)](https://jephraim-manansala.medium.com/complex-systems-as-viewed-by-an-electrical-engineer-bb0be4e25d4d "Complex Systems, as viewed by an Electrical Engineer") | [**Complex Systems, as viewed by an Electrical Engineer** <br/> *The whole is greater than the sum of its parts.*](https://jephraim-manansala.medium.com/complex-systems-as-viewed-by-an-electrical-engineer-bb0be4e25d4d "Complex Systems, as viewed by an Electrical Engineer") | 
 
 
+<h3> Introduction to Image Processing </h3>
+<p> Here are some of the tutorial articles I curated for Image Processing. More tutorial articles to come! </p>
 |[![blog1](assets/blog1.png)](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")  |  [![blog2](assets/blog2.png)](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")  | [![blog3](assets/blog3.png)](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")  | [![blog4](assets/blog4.png)](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods") | 
 |[**Introduction to Computer Vision** <br/> *Ever wondered how computers analyze and represent image data?*](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision") | [**Digital Image Sampling and Quantization** <br/> *How high-definition is high-definition?* <br/>](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")| [**Image Enhancements using Fourier Transform** <br/> *How to remove unnecessary objects or artifacts in images?*](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")  | [**Color Correction using White Balancing Methods** <br/> *How can we correct colors in digital images?*](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods") | 
 |[![blog5](assets/blog5.png)](https://medium.com/swlh/image-processing-with-python-histogram-manipulation-on-digital-images-d4fb426d3513 "Color Correction using Histogram Manipulation")  |  [![blog6](assets/blog6.png)](https://medium.com/swlh/image-processing-with-python-convolutional-filters-and-kernels-b9884d91a8fd "Image Effects using Convolutional Filters and Kernels")  | [![blog7](assets/blog7.png)](https://medium.com/swlh/image-processing-with-python-morphological-operations-26b7006c0359 "Morphological Operations")  | [![blog8](assets/blog8.png)](https://medium.com/swlh/image-processing-with-python-detecting-blobs-in-digital-images-edebfd22328c "Blob Detection using LoG, DoG, and DoH") | 
