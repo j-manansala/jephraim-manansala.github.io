@@ -27,6 +27,7 @@ img:hover {
 <p> Here are some of my thoughts and ideas about Data Science. </p>
 
 | [![ns](assets/ns.jpg)](https://jephraim-manansala.medium.com/complex-systems-as-viewed-by-an-electrical-engineer-bb0be4e25d4d "Complex Systems, as viewed by an Electrical Engineer") | [**Complex Systems, as viewed by an Electrical Engineer** <br/> *The whole is greater than the sum of its parts.*](https://jephraim-manansala.medium.com/complex-systems-as-viewed-by-an-electrical-engineer-bb0be4e25d4d "Complex Systems, as viewed by an Electrical Engineer") | 
+| [![goals](assets/goals.jpg)](https://jephraim-manansala.medium.com/time-to-reach-new-heights-9041121be7f8 "Time to Reach New Heights") | [**Time to Reach New Heights** <br/> *An insight piece of an engineer transitioning into data science.*](https://jephraim-manansala.medium.com/time-to-reach-new-heights-9041121be7f8 "Complex Systems, as viewed by an Electrical Engineer") | 
 
 <h2> Introduction to Image Processing </h2>
 <p> Here are some of the tutorial articles I curated for Image Processing. More tutorial articles to come! </p>
