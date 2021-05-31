@@ -35,34 +35,36 @@ img:hover {
 
 [![blog5](assets/blog5.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-histogram-manipulation-on-digital-images-d4fb426d3513 "Image Processing with Python: Color Correction using Histogram Manipulation")
 
+<div class="main">
 <div class="row">
   <div class="column">
     <div class="content">
-      [![blog1](assets/blog1.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-introduction-to-computer-vision-8c730073ede3 "Introduction to Computer Vision")
+      <img src="assets/blog1.png" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      [![blog2](assets/blog2.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-digital-image-sampling-and-quantization-4d2c514e0f00 "Digital Image and Quantization")
+      <img src="assets/blog2.png" alt="Lights" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      [![blog3](assets/blog3.png){:.thumbnail.bordered}](https://medium.com/swlh/image-processing-with-python-fourier-transform-for-digital-images-bc918786e375 "Image Enhancements using Fourier Transform")
+      <img src="assets/blog3.png" alt="Nature" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
   <div class="column">
     <div class="content">
-      [![blog4](assets/blog4.png){:.thumbnail.bordered}](https://jephraim-manansala.medium.com/image-processing-with-python-color-correction-using-white-balancing-6c6c749886de "Image Processing with Python: Color Correction using White Balancing Methods"
+      <img src="assets/blog4.png" alt="Mountains" style="width:100%">
       <h3>My Work</h3>
       <p>Lorem ipsum..</p>
     </div>
   </div>
+</div>
 </div>
 
