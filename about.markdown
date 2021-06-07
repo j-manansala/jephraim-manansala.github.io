@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 [![jephraim_manansala](assets/jcm.jpeg){: width=175 style="float:right; padding:16px"}](https://www.linkedin.com/in/jephraim-manansala/ "LinkedIn Profile")
-
+<br>
 <p style="text-align:justify"> <b>Detail-Oriented Data Scientist and Business Analytics Specialist</b> with six years of hands-on experience in developing and executing data-driven solutions for the energy and utility industry. Having experienced the industry from the inside, I have recognized the potential growth opportunities by utilizing the power of data. This led me to develop and sharpen my knowledge in machine learning, artificial intelligence, big data analytics, statistical modelling, data engineering, and cloud computing. With my skills, experience, and industry exposure, I aim to support organizations towards digital transformation and data-driven decision-making to pave the way for innovation and growth. </p>
 <br>
 <hr>
